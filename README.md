@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Rae-Frank
-- 👀 I’m interested in AI
+- 👋 Hi, I’m @iyiowo
+- 👀 I’m interested in stuff
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im also an animator
 
 <!---
 Rae-Frank/Rae-Frank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
